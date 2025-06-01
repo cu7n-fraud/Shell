@@ -1,5 +1,5 @@
 @echo off 
-title E7-RatV1
+title CTSHELL
 color 3 
 cls 
 chcp 65001 
